@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragmeny</string>
+    <string name="labelFragment1">Je suis le fragment 1</string>
+    <string name="labelFragment2">Je suis le fragment 2</string>
+    <string name="btnFragment1">Fragment 1</string>
+    <string name="btnFragment2">Fragment 2</string>
+</resources>
